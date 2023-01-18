@@ -1,6 +1,9 @@
 
 # Food Truck Finder
 
+This was my first full react ui project. It has no backend.
+I've kept this here for memories but it most likely will never work again. 
+
 Use this web app to provide a food truck finder in your local area! 
 # [Live Demo](http://foodtruckfinder99.herokuapp.com/)
 
